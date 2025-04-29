@@ -1,0 +1,10508 @@
+(kicad_sch
+	(version 20250114)
+	(generator "eeschema")
+	(generator_version "9.0")
+	(uuid "bae96a50-4dba-45b4-bca7-e4ba45589868")
+	(paper "A4")
+	(lib_symbols
+		(symbol "Connector:Conn_01x14_Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 17.78 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x14_Pin"
+				(at 0 -20.32 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x14, script generated"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_locked" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "Conn_01x14_Pin_1_1"
+				(rectangle
+					(start 0.8636 15.367)
+					(end 0 15.113)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 12.827)
+					(end 0 12.573)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 10.287)
+					(end 0 10.033)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 7.747)
+					(end 0 7.493)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 5.207)
+					(end 0 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 2.667)
+					(end 0 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -2.413)
+					(end 0 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -4.953)
+					(end 0 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -7.493)
+					(end 0 -7.747)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -10.033)
+					(end 0 -10.287)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -12.573)
+					(end 0 -12.827)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -15.113)
+					(end 0 -15.367)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(rectangle
+					(start 0.8636 -17.653)
+					(end 0 -17.907)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 15.24) (xy 0.8636 15.24)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 12.7) (xy 0.8636 12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 10.16) (xy 0.8636 10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 7.62) (xy 0.8636 7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 5.08) (xy 0.8636 5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 2.54) (xy 0.8636 2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -2.54) (xy 0.8636 -2.54)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -5.08) (xy 0.8636 -5.08)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -7.62) (xy 0.8636 -7.62)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -10.16) (xy 0.8636 -10.16)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -12.7) (xy 0.8636 -12.7)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -15.24) (xy 0.8636 -15.24)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -17.78) (xy 0.8636 -17.78)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 15.24 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 12.7 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 10.16 180)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 7.62 180)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 5.08 180)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -5.08 180)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -7.62 180)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -10.16 180)
+					(length 3.81)
+					(name "Pin_11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "11"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -12.7 180)
+					(length 3.81)
+					(name "Pin_12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "12"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -15.24 180)
+					(length 3.81)
+					(name "Pin_13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "13"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -17.78 180)
+					(length 3.81)
+					(name "Pin_14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "14"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:C"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.254)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "C"
+				(at 0.635 2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Value" "C"
+				(at 0.635 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left)
+				)
+			)
+			(property "Footprint" ""
+				(at 0.9652 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Unpolarized capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "cap capacitor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "C_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "C_0_1"
+				(polyline
+					(pts
+						(xy -2.032 0.762) (xy 2.032 0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.032 -0.762) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "C_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 2.794)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "Device:R"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "R"
+				(at 2.032 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "R"
+				(at 0 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at -1.778 0 90)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "R res resistor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "R_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "R_0_1"
+				(rectangle
+					(start -1.016 -2.54)
+					(end 1.016 2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "R_1_1"
+				(pin passive line
+					(at 0 3.81 270)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 0 -3.81 90)
+					(length 1.27)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "TCRT5000L:TCRT5000L"
+			(pin_names
+				(offset 1.016)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "U"
+				(at -5.1092 5.6131 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Value" "TCRT5000L"
+				(at -5.093 -10.1813 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify left bottom)
+				)
+			)
+			(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "MF" "Vishay"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PACKAGE" "PCB Mount Vishay"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "PRICE" "0.60 USD"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Package" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Price" "None"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "MP" "TCRT5000L"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Availability" "In Stock"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "AVAILABILITY" "Good"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(justify bottom)
+					(hide yes)
+				)
+			)
+			(symbol "TCRT5000L_0_0"
+				(rectangle
+					(start -5.08 -7.62)
+					(end 5.08 5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy -4.064 -1.016) (xy -3.556 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 2.54) (xy -5.08 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 2.54) (xy -3.556 -0.254)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 -1.016) (xy -3.556 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 -1.016) (xy -3.048 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 -1.016) (xy -4.064 -0.254) (xy -3.048 -0.254) (xy -3.556 -1.016)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -3.556 -5.08) (xy -5.08 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.794 -1.778) (xy -1.524 -3.048)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -2.286 -1.016) (xy -1.016 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -3.048) (xy -2.286 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.524 -3.048) (xy -2.032 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.27 1.016) (xy 0 -0.254)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -2.286) (xy -1.778 -1.778)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.016 -2.286) (xy -1.524 -1.524)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy -0.762 1.778) (xy 0.508 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.254) (xy -0.762 0.254)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -0.254) (xy -0.508 0.508)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0.508) (xy -0.254 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0.508 0.508) (xy 0 1.27)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 1.27 0.762)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 1.27 -1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.016) (xy 1.27 -2.032)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 -1.016) (xy 3.302 -2.286)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.032 -2.032) (xy 2.54 -1.27) (xy 2.794 -2.032) (xy 2.032 -2.032)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 2.54) (xy 3.302 1.016)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 2.54) (xy 5.08 2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 1.016) (xy 1.27 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -2.286) (xy 3.302 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 3.302 -5.08) (xy 5.08 -5.08)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -7.62 2.54 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -7.62 -5.08 0)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 7.62 -5.08 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.016 1.016)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(junction
+		(at 166.37 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "01a6d995-8fcd-444b-affc-a18fe977bdf6")
+	)
+	(junction
+		(at 133.35 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "027fda97-280b-4241-ad00-48aa8ae4ecf9")
+	)
+	(junction
+		(at 102.87 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "09744ba1-99b0-450f-9136-2b5352958dad")
+	)
+	(junction
+		(at 167.64 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0b3472b7-c9ce-4a9e-bcd6-4f3ef63e83ce")
+	)
+	(junction
+		(at 48.26 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0c8a1e70-15c3-46c6-b38b-0dea2f3e72ef")
+	)
+	(junction
+		(at 199.39 26.67)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0cc23c17-12a7-499f-ad9e-d165f82fa3fb")
+	)
+	(junction
+		(at 13.97 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "0d087516-0263-4cc9-87df-e00a3cc265f2")
+	)
+	(junction
+		(at 100.33 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1099fe81-5206-44a4-841b-ac47a073d9d2")
+	)
+	(junction
+		(at 102.87 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "196d6212-98c9-4c7f-84b0-54e32472b96f")
+	)
+	(junction
+		(at 40.64 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1ddb1238-aae4-476f-b639-fe4860bef5f8")
+	)
+	(junction
+		(at 167.64 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1e41ce0a-2128-4dcc-b737-f065940c3e0f")
+	)
+	(junction
+		(at 69.85 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "20f0f80a-82f2-4ec5-9b21-fd9ca0657b2e")
+	)
+	(junction
+		(at 144.78 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "2d107fac-88cb-42f3-b7d7-264606457798")
+	)
+	(junction
+		(at 40.64 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "30a05663-f5b7-4c32-9b0b-6fc9004b5a5b")
+	)
+	(junction
+		(at 137.16 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "316f6c69-b4de-4992-aacc-e52db88a0b09")
+	)
+	(junction
+		(at 133.35 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "32c9aaae-1ff5-4e6d-8250-baaca89407ef")
+	)
+	(junction
+		(at 39.37 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3403d2a7-adcb-4b93-ac4a-693557477259")
+	)
+	(junction
+		(at 69.85 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3705059a-cc91-414b-a997-c656b33b4beb")
+	)
+	(junction
+		(at 134.62 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "398711ac-92dd-4ee6-a781-61b4add8815a")
+	)
+	(junction
+		(at 134.62 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3a88e727-2262-4baa-85cf-d4296a08921f")
+	)
+	(junction
+		(at 203.2 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "3b4edf46-76eb-45cd-8f6c-2fa2dd60e051")
+	)
+	(junction
+		(at 38.1 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "403abcd8-a502-4c5f-9c7d-5f9ee5b8ad1e")
+	)
+	(junction
+		(at 100.33 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4100762f-0da2-43bf-837a-e7ffd542eb85")
+	)
+	(junction
+		(at 168.91 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "41401dda-42be-4863-8260-40cab74c4b61")
+	)
+	(junction
+		(at 36.83 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4bf9403b-ba9d-4da3-8203-f3290ef81de2")
+	)
+	(junction
+		(at 142.24 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "58ac8a36-5a2c-4681-98fc-babd2c98960d")
+	)
+	(junction
+		(at 201.93 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5be2cc9b-7f70-42f1-a181-319ce324d250")
+	)
+	(junction
+		(at 68.58 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5c58ee4b-73f7-414e-939a-02730f8e9d9d")
+	)
+	(junction
+		(at 72.39 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5de0c093-e690-4572-bf6a-4beed62c10cc")
+	)
+	(junction
+		(at 104.14 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "5f98462c-01d2-45dc-8b30-1ee0a7fb20ce")
+	)
+	(junction
+		(at 77.47 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "611a4e22-249c-4c78-b4f9-7b82b61e445b")
+	)
+	(junction
+		(at 111.76 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6158d467-843f-417f-9d15-2c4d3239bd04")
+	)
+	(junction
+		(at 203.2 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65a4f39c-65c1-4e15-ac01-6ab19ece495c")
+	)
+	(junction
+		(at 104.14 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "65cfc483-cc03-40f0-87a3-69c35e20008a")
+	)
+	(junction
+		(at 137.16 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "668eac50-a6ff-47cc-9ab3-5e80cb6e0ea8")
+	)
+	(junction
+		(at 68.58 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "69d07a24-62ab-44d5-9df2-46a8b3953948")
+	)
+	(junction
+		(at 40.64 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "6beb8bb8-7263-4292-b6b0-11336172cc3f")
+	)
+	(junction
+		(at 39.37 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "74da145d-daea-4929-8f99-8e2c7f5b75fa")
+	)
+	(junction
+		(at 104.14 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75542c2b-0b13-4c8c-9c1d-c371db6639ff")
+	)
+	(junction
+		(at 71.12 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "75c865d5-6c1b-4ea7-a29f-4d298e6042fb")
+	)
+	(junction
+		(at 101.6 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7907cf65-7b47-42e0-8b04-82fe488ab920")
+	)
+	(junction
+		(at 135.89 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7c81fc35-1e15-4655-b070-817cdf51ba9c")
+	)
+	(junction
+		(at 177.8 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "7eef8561-dc83-4ce6-b56b-538a2e0b8379")
+	)
+	(junction
+		(at 36.83 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "815be6f0-8f8b-422d-912a-9bd28129b314")
+	)
+	(junction
+		(at 135.89 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "81f4cd24-0110-455f-b7f6-67a1cef0234b")
+	)
+	(junction
+		(at 137.16 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85183f74-a0b6-4997-a873-7c32b3e4d0af")
+	)
+	(junction
+		(at 175.26 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "85369973-a9eb-4874-8597-397a66eea1f3")
+	)
+	(junction
+		(at 133.35 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "855a3420-5d85-4a62-9823-6dab858c021c")
+	)
+	(junction
+		(at 101.6 66.04)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "897d53a2-3ea9-409c-b34d-d8dde3cabfa8")
+	)
+	(junction
+		(at 166.37 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "904bbd24-21a7-4dd5-8e8b-71ecbac0e3d0")
+	)
+	(junction
+		(at 45.72 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "91722e41-1c1c-49ed-bbd6-60fc69b28e2b")
+	)
+	(junction
+		(at 167.64 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "920cdfcd-a16a-4d23-aa83-fb6c1b050bc7")
+	)
+	(junction
+		(at 36.83 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9be0a3e1-110e-435a-a046-b31ae0b18974")
+	)
+	(junction
+		(at 38.1 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9c06b265-db35-45b7-9f1c-2d88a63f6e6a")
+	)
+	(junction
+		(at 100.33 25.4)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9da1b9a6-ad7b-4cba-967b-2e7e9821be18")
+	)
+	(junction
+		(at 101.6 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9e6e5f71-bb35-4c11-9b63-5bce6f312432")
+	)
+	(junction
+		(at 170.18 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9ebeb967-4678-4486-a2be-1e3c84376ad9")
+	)
+	(junction
+		(at 71.12 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "a45a121b-73cc-4db1-9c20-3d7d62424803")
+	)
+	(junction
+		(at 102.87 82.55)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "af0aff04-0909-4c86-9441-0b11c479d669")
+	)
+	(junction
+		(at 134.62 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b29f5ff9-032d-4a71-aefe-297537fc5b8e")
+	)
+	(junction
+		(at 199.39 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "b7c40c5c-ca72-488d-b825-9210f60290f5")
+	)
+	(junction
+		(at 68.58 29.21)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "bca8a5dd-b86b-418f-9af1-dfef71ec1e76")
+	)
+	(junction
+		(at 200.66 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c1caddfc-c2b8-4ba6-a509-41521dde03cc")
+	)
+	(junction
+		(at 38.1 62.23)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c33cf4c7-5cd7-425b-b0a1-51f7c0125d80")
+	)
+	(junction
+		(at 166.37 27.94)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c5c1e0f9-a0b7-462e-95f4-f73af2022cda")
+	)
+	(junction
+		(at 135.89 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ca617438-fbb8-41dc-9434-9f4b8989cf7a")
+	)
+	(junction
+		(at 168.91 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ce756b2a-a0ab-4c7c-850e-63216241fd5d")
+	)
+	(junction
+		(at 170.18 115.57)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d65d1143-40b7-415c-86e1-48c586059d4c")
+	)
+	(junction
+		(at 168.91 80.01)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dacc38ae-b3d4-4968-a1de-cc76624eb03e")
+	)
+	(junction
+		(at 170.18 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "dba6a340-8ae6-40af-81cf-d30e0e31f911")
+	)
+	(junction
+		(at 109.22 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "de1e0342-e83a-4308-92a1-5fa45322d1a7")
+	)
+	(junction
+		(at 210.82 97.79)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "deb9f9c3-0408-46ab-9339-321ae881196a")
+	)
+	(junction
+		(at 72.39 123.19)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e1060dd5-9a10-4c56-96ba-0151e1386440")
+	)
+	(junction
+		(at 208.28 44.45)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "e96002c5-2238-4dc5-98c3-c83b1c4f6d4f")
+	)
+	(junction
+		(at 203.2 114.3)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eacfcd8d-659b-4a2a-9ae2-de5630686f85")
+	)
+	(junction
+		(at 200.66 60.96)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "eeef35e8-c2fe-4576-a09c-ccb6591b860c")
+	)
+	(junction
+		(at 80.01 99.06)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f088b22b-9c95-4ec4-abeb-c5f6901d2262")
+	)
+	(junction
+		(at 69.85 63.5)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "f26ad3b7-20b3-4579-a16e-6d52aeecc3c2")
+	)
+	(junction
+		(at 72.39 116.84)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa0a37e0-890d-4653-978f-abe546b07c05")
+	)
+	(junction
+		(at 201.93 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fa154f33-dd88-4b73-9021-64cb8a5a9cbf")
+	)
+	(junction
+		(at 39.37 78.74)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdd4bc50-3e40-4007-afa7-cbdc74c6a418")
+	)
+	(junction
+		(at 71.12 81.28)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "ff4f6bfb-ccde-4558-aa83-e6c42c8d24ee")
+	)
+	(wire
+		(pts
+			(xy 52.07 72.39) (xy 226.06 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "01d5ec77-2753-4c35-b6e1-098d4679ed61")
+	)
+	(wire
+		(pts
+			(xy 144.78 91.44) (xy 144.78 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0252896f-5cfe-4cc2-b274-984e05921381")
+	)
+	(wire
+		(pts
+			(xy 109.22 45.72) (xy 109.22 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "035c4851-562d-48d8-ba41-dffa7469e0d9")
+	)
+	(wire
+		(pts
+			(xy 182.88 97.79) (xy 182.88 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "050e3ab4-c885-4534-b31c-cee5a08fa7ca")
+	)
+	(wire
+		(pts
+			(xy 213.36 43.18) (xy 227.33 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "05351bf7-7ee3-403e-9ea9-3bc531ff2323")
+	)
+	(wire
+		(pts
+			(xy 127 29.21) (xy 133.35 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "056725e5-8ee4-485e-94c3-2c65589da4a1")
+	)
+	(wire
+		(pts
+			(xy 85.09 38.1) (xy 85.09 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "060a7cbe-9eea-4b5f-bd1c-ab6f870f3484")
+	)
+	(wire
+		(pts
+			(xy 217.17 39.37) (xy 231.14 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "07c4f9c0-4160-492b-9656-23eac318a28b")
+	)
+	(wire
+		(pts
+			(xy 175.26 44.45) (xy 180.34 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0890b649-95f0-4255-baaa-19f861f48507")
+	)
+	(wire
+		(pts
+			(xy 160.02 57.15) (xy 160.02 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "08ccd574-947e-4a3c-9a6f-0f60a116e9c3")
+	)
+	(wire
+		(pts
+			(xy 167.64 60.96) (xy 167.64 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "09a064c1-54ea-464a-bc0d-8280bd488343")
+	)
+	(wire
+		(pts
+			(xy 203.2 114.3) (xy 203.2 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0aa1481c-b8f5-4a0e-978a-315d874155ff")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 52.07 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0bba2671-3dfb-4edb-8378-140204191e77")
+	)
+	(wire
+		(pts
+			(xy 104.14 115.57) (xy 104.14 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0be78021-965d-4525-81f3-695195cb4e37")
+	)
+	(wire
+		(pts
+			(xy 226.06 72.39) (xy 226.06 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0c31b590-1897-4c21-be55-32559d6b1426")
+	)
+	(wire
+		(pts
+			(xy 24.13 116.84) (xy 40.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0cf4ca7a-4faf-4e56-a41a-1e7f48dc38c4")
+	)
+	(wire
+		(pts
+			(xy 77.47 29.21) (xy 68.58 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0d1ee07e-0f91-4a52-9233-207886efdb74")
+	)
+	(wire
+		(pts
+			(xy 52.07 99.06) (xy 52.07 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0da48ade-95ea-407a-81d6-21dbc3d20c13")
+	)
+	(wire
+		(pts
+			(xy 39.37 78.74) (xy 71.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "0dfce56d-d18e-44f6-85f6-18f5dc9b3575")
+	)
+	(wire
+		(pts
+			(xy 120.65 81.28) (xy 135.89 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "108ece8a-9354-46fa-9bd1-82f78396d9e3")
+	)
+	(wire
+		(pts
+			(xy 77.47 62.23) (xy 69.85 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1192411c-665f-4d73-9313-a9e31e829f6e")
+	)
+	(wire
+		(pts
+			(xy 215.9 20.32) (xy 215.9 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "119ed361-4356-451d-a674-616d0fb59734")
+	)
+	(wire
+		(pts
+			(xy 153.67 115.57) (xy 170.18 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "122ab321-cdf4-4d07-a7be-e8531b89d1f2")
+	)
+	(wire
+		(pts
+			(xy 64.77 99.06) (xy 64.77 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1279b4e8-5003-4279-91c9-c040cb48705b")
+	)
+	(wire
+		(pts
+			(xy 72.39 115.57) (xy 72.39 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "12fe339a-d6f7-48b8-ad52-48cb56b579a6")
+	)
+	(wire
+		(pts
+			(xy 134.62 62.23) (xy 134.62 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1316c896-6b03-4ac1-ab1d-cfb9c4e8d943")
+	)
+	(wire
+		(pts
+			(xy 166.37 25.4) (xy 199.39 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "13bd74a4-3b7c-45d1-95d5-9eb2e409a0dd")
+	)
+	(wire
+		(pts
+			(xy 111.76 99.06) (xy 116.84 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "14bb6c95-a39f-42a8-a31c-e9a17fe962b4")
+	)
+	(wire
+		(pts
+			(xy 77.47 58.42) (xy 77.47 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "151d5f1a-b5aa-45da-a311-f8bd12b5c8db")
+	)
+	(wire
+		(pts
+			(xy 228.6 41.91) (xy 228.6 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1597d9b0-da44-4b88-b476-d6340c930c6b")
+	)
+	(wire
+		(pts
+			(xy 109.22 29.21) (xy 100.33 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "17287325-e287-4b70-8bb8-68bc350e9942")
+	)
+	(wire
+		(pts
+			(xy 177.8 97.79) (xy 177.8 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1826ef2c-ebf5-4665-8ff8-521859a40a99")
+	)
+	(wire
+		(pts
+			(xy 214.63 21.59) (xy 214.63 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "188fede1-cedc-41ce-acbf-831fa7c40509")
+	)
+	(wire
+		(pts
+			(xy 49.53 17.78) (xy 49.53 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "18e4f3e6-1282-45a7-8188-a7d8cc80d878")
+	)
+	(wire
+		(pts
+			(xy 232.41 38.1) (xy 232.41 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "19d90c1a-a107-449e-9cee-a93a0ec71aac")
+	)
+	(wire
+		(pts
+			(xy 229.87 49.53) (xy 245.11 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b5b6782-4428-45cd-930d-f866f15ce76b")
+	)
+	(wire
+		(pts
+			(xy 186.69 90.17) (xy 186.69 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c325b47-4925-439d-8a73-c3b1657dc658")
+	)
+	(wire
+		(pts
+			(xy 175.26 60.96) (xy 167.64 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1c756108-6c17-45ef-b006-5751d64364c9")
+	)
+	(wire
+		(pts
+			(xy 142.24 58.42) (xy 142.24 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1cb041a3-ddee-4371-a1b9-935ddcc65a47")
+	)
+	(wire
+		(pts
+			(xy 226.06 59.69) (xy 245.11 59.69)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1de5997c-a8d9-48df-8fc8-58b05a7e2a45")
+	)
+	(wire
+		(pts
+			(xy 24.13 99.06) (xy 24.13 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1eb22215-5ebd-4181-8502-7172ded17a77")
+	)
+	(wire
+		(pts
+			(xy 118.11 38.1) (xy 118.11 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f7e9f5c-e247-44fa-8750-1919d7399085")
+	)
+	(wire
+		(pts
+			(xy 162.56 114.3) (xy 170.18 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1f95970b-271b-4d4a-8a8b-ec33acd1e686")
+	)
+	(wire
+		(pts
+			(xy 80.01 91.44) (xy 80.01 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "203250b1-3377-4547-ad50-669856d85c6f")
+	)
+	(wire
+		(pts
+			(xy 62.23 38.1) (xy 62.23 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21019766-b922-4406-b866-0aa1bd042a8b")
+	)
+	(wire
+		(pts
+			(xy 135.89 82.55) (xy 135.89 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "21ffb1f5-fc0e-4bca-bd61-6671cfd1bf82")
+	)
+	(wire
+		(pts
+			(xy 184.15 62.23) (xy 200.66 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "25594a6c-ef34-4182-8a2e-e597deb8ac31")
+	)
+	(wire
+		(pts
+			(xy 68.58 29.21) (xy 68.58 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "262ba959-46f6-4651-9e87-aea49b842ec6")
+	)
+	(wire
+		(pts
+			(xy 144.78 115.57) (xy 137.16 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "27bbd757-6d3c-4be4-90f9-97d7f9db5457")
+	)
+	(wire
+		(pts
+			(xy 210.82 81.28) (xy 201.93 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "293d7996-ae51-4dd5-8a1c-ae8f36485e2b")
+	)
+	(wire
+		(pts
+			(xy 39.37 81.28) (xy 39.37 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "29ffa04d-e441-4d06-8aa6-52b60c698b83")
+	)
+	(wire
+		(pts
+			(xy 213.36 22.86) (xy 213.36 43.18)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2aa943e7-6b37-4dac-b64b-cbe66e3a6779")
+	)
+	(wire
+		(pts
+			(xy 166.37 27.94) (xy 166.37 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2b6ce49b-923a-41a2-bb08-f6e2664f37a7")
+	)
+	(wire
+		(pts
+			(xy 231.14 77.47) (xy 231.14 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2bb91012-7acc-4f3e-94f3-f50ce4000906")
+	)
+	(wire
+		(pts
+			(xy 231.14 39.37) (xy 231.14 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2caadea7-7fbd-4e23-b9f5-ac9115851a74")
+	)
+	(wire
+		(pts
+			(xy 133.35 27.94) (xy 133.35 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ced8f13-d133-43fc-9c98-448b534117e7")
+	)
+	(wire
+		(pts
+			(xy 13.97 25.4) (xy 13.97 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2d54f3a1-4b5a-407b-9b71-1c326f5b9c7d")
+	)
+	(wire
+		(pts
+			(xy 30.48 29.21) (xy 36.83 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "30b40601-89d9-483a-905a-2be6d3e7d8f3")
+	)
+	(wire
+		(pts
+			(xy 100.33 25.4) (xy 133.35 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32a2cc3f-9089-42fc-9c3c-3e3751824ca5")
+	)
+	(wire
+		(pts
+			(xy 193.04 60.96) (xy 200.66 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "32c680e1-97fe-4fbd-8e3d-480971139030")
+	)
+	(wire
+		(pts
+			(xy 68.58 25.4) (xy 100.33 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "346e4125-a269-4f50-8c92-dc439a349e16")
+	)
+	(wire
+		(pts
+			(xy 210.82 110.49) (xy 210.82 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "355f15ec-88bb-498a-bae7-9dec0230932c")
+	)
+	(wire
+		(pts
+			(xy 195.58 90.17) (xy 195.58 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36aa5be2-e92e-48d3-b371-9a789299e557")
+	)
+	(wire
+		(pts
+			(xy 72.39 116.84) (xy 72.39 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "36e55eb5-44a6-4260-94ef-a77c3695cafc")
+	)
+	(wire
+		(pts
+			(xy 129.54 91.44) (xy 129.54 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37b70d94-d012-44ac-a697-cc942663dc59")
+	)
+	(wire
+		(pts
+			(xy 21.59 38.1) (xy 21.59 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37ccafdc-a663-4486-a966-4c4793a54d6c")
+	)
+	(wire
+		(pts
+			(xy 120.65 116.84) (xy 137.16 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "37fdc54c-74bd-447a-aaa8-18db29358e52")
+	)
+	(wire
+		(pts
+			(xy 40.64 115.57) (xy 40.64 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3813c672-af37-4786-b9ca-ce214c6e9242")
+	)
+	(wire
+		(pts
+			(xy 160.02 44.45) (xy 160.02 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38e5ee76-2d74-46ec-ad08-120e2bb58e80")
+	)
+	(wire
+		(pts
+			(xy 48.26 115.57) (xy 40.64 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "38faa090-828b-4d50-9e2e-58a2462f60ff")
+	)
+	(wire
+		(pts
+			(xy 199.39 25.4) (xy 199.39 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39b752a7-b650-4437-b9b3-1a93f4c246f4")
+	)
+	(wire
+		(pts
+			(xy 170.18 115.57) (xy 170.18 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "39e90eaa-6c9e-4b42-a8bc-a298a3bb54ed")
+	)
+	(wire
+		(pts
+			(xy 210.82 97.79) (xy 232.41 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3aeeab7f-aa89-4b35-a11a-75c3e98484e3")
+	)
+	(wire
+		(pts
+			(xy 24.13 81.28) (xy 39.37 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3afa2a16-9269-4a4b-8a84-3458c6f8f0f6")
+	)
+	(wire
+		(pts
+			(xy 175.26 57.15) (xy 175.26 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3b4cf894-eccb-49b5-9c34-ec7029dbd225")
+	)
+	(wire
+		(pts
+			(xy 30.48 45.72) (xy 30.48 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3bc403bb-fd8c-4590-b256-cc00112d8cee")
+	)
+	(wire
+		(pts
+			(xy 118.11 45.72) (xy 118.11 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3ccbb809-b8d8-4ec6-9cab-f3e8368d278b")
+	)
+	(wire
+		(pts
+			(xy 218.44 38.1) (xy 232.41 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3de28443-6bf4-4751-8e0d-3d81ef3131bc")
+	)
+	(wire
+		(pts
+			(xy 104.14 123.19) (xy 72.39 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3fd0b062-708c-4b8c-bc70-a0475a3ff305")
+	)
+	(wire
+		(pts
+			(xy 162.56 90.17) (xy 162.56 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41786733-bc63-45d3-9ddb-19346342d508")
+	)
+	(wire
+		(pts
+			(xy 129.54 82.55) (xy 135.89 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "41e7f475-3c95-4538-9b1b-be520bd1118b")
+	)
+	(wire
+		(pts
+			(xy 40.64 123.19) (xy 17.78 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45b4b3ae-175a-4d7f-bb6f-675e20b09ec9")
+	)
+	(wire
+		(pts
+			(xy 111.76 99.06) (xy 111.76 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4699e59b-8a4d-4fe1-9517-c3b084465ee7")
+	)
+	(wire
+		(pts
+			(xy 200.66 60.96) (xy 200.66 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "48b7e9a1-667b-49e7-b18e-0f2aba87f18e")
+	)
+	(wire
+		(pts
+			(xy 232.41 44.45) (xy 245.11 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4930698a-2e6c-426b-b5df-1cd353202b86")
+	)
+	(wire
+		(pts
+			(xy 227.33 43.18) (xy 227.33 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "49bc665a-64d5-44f4-94d8-24a413a5732d")
+	)
+	(wire
+		(pts
+			(xy 62.23 45.72) (xy 62.23 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4b6d76bc-d0c8-48a3-86c3-aa05390305d1")
+	)
+	(wire
+		(pts
+			(xy 200.66 62.23) (xy 200.66 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4e7168bc-4c22-499a-9991-db3ca675f5d7")
+	)
+	(wire
+		(pts
+			(xy 153.67 90.17) (xy 153.67 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4ef7481b-3ff7-41f7-9501-844419dd4e26")
+	)
+	(wire
+		(pts
+			(xy 162.56 97.79) (xy 162.56 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f315ccd-aa3a-4f6c-9dca-7074cbd7a3c3")
+	)
+	(wire
+		(pts
+			(xy 208.28 27.94) (xy 199.39 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f3c6b57-897f-4282-9c36-bc301608b37b")
+	)
+	(wire
+		(pts
+			(xy 69.85 63.5) (xy 69.85 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4fc3646b-5501-40b9-b3a2-4d29c2767482")
+	)
+	(wire
+		(pts
+			(xy 127 62.23) (xy 134.62 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "501aba22-17a5-4307-91ab-841c4cf3938f")
+	)
+	(wire
+		(pts
+			(xy 62.23 58.42) (xy 62.23 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "52564dff-7d0c-4876-9d3f-d1c6957c7940")
+	)
+	(wire
+		(pts
+			(xy 85.09 27.94) (xy 100.33 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53f08a44-8640-4a47-8d02-2eb35e49490c")
+	)
+	(wire
+		(pts
+			(xy 228.6 64.77) (xy 245.11 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "549e72c0-4f97-4821-b1ca-de89589d8c47")
+	)
+	(wire
+		(pts
+			(xy 111.76 111.76) (xy 111.76 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "55ad308a-7a82-4991-b061-8ba4863d2048")
+	)
+	(wire
+		(pts
+			(xy 133.35 29.21) (xy 133.35 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "56b8fb0c-bd1f-4847-a3db-bd21914b5a50")
+	)
+	(wire
+		(pts
+			(xy 80.01 111.76) (xy 80.01 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "58803794-fd80-4b0a-86be-7e8ef7805738")
+	)
+	(wire
+		(pts
+			(xy 226.06 44.45) (xy 226.06 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "59909f99-f03f-47b4-8fab-d71e834fc998")
+	)
+	(wire
+		(pts
+			(xy 36.83 29.21) (xy 36.83 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5bed17d0-66bb-44ab-a818-6b7665937f90")
+	)
+	(wire
+		(pts
+			(xy 13.97 78.74) (xy 39.37 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c1b3920-9456-4cd3-8fb4-fb7618a64aa6")
+	)
+	(wire
+		(pts
+			(xy 201.93 78.74) (xy 201.93 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5d48369e-00e9-4447-b667-cf769a28462e")
+	)
+	(wire
+		(pts
+			(xy 85.09 45.72) (xy 85.09 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5dd30945-e533-4826-b169-0a094451607e")
+	)
+	(wire
+		(pts
+			(xy 214.63 41.91) (xy 228.6 41.91)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5e2a6b0a-88bc-4257-bf37-c50edc1df0f8")
+	)
+	(wire
+		(pts
+			(xy 184.15 36.83) (xy 184.15 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5f6825ea-3a16-487b-bf78-cb393286eb4e")
+	)
+	(wire
+		(pts
+			(xy 104.14 116.84) (xy 104.14 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "61075500-d1a3-4289-a516-3bc40b9a77ee")
+	)
+	(wire
+		(pts
+			(xy 81.28 19.05) (xy 217.17 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6179977b-242f-4620-ae71-b8d711e6a77c")
+	)
+	(wire
+		(pts
+			(xy 45.72 45.72) (xy 45.72 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "624b572c-f85e-43e4-a656-4c8361c8ffec")
+	)
+	(wire
+		(pts
+			(xy 232.41 72.39) (xy 245.11 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "62b55de7-e511-4241-a12b-7fe3710f930d")
+	)
+	(wire
+		(pts
+			(xy 203.2 123.19) (xy 170.18 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "634085e4-d1aa-40ff-b87b-e51b80dcd2b2")
+	)
+	(wire
+		(pts
+			(xy 120.65 99.06) (xy 120.65 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64799ff7-f52b-4f10-b865-f98b4d07e2a1")
+	)
+	(wire
+		(pts
+			(xy 13.97 125.73) (xy 241.3 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "64e8dcae-aa43-4ade-9d61-39ed48192785")
+	)
+	(wire
+		(pts
+			(xy 142.24 62.23) (xy 134.62 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "65c62727-3aba-4330-a4fd-df313fe73e8f")
+	)
+	(wire
+		(pts
+			(xy 127 58.42) (xy 127 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6630a0de-a1cd-446f-9cf4-739c23f924ef")
+	)
+	(wire
+		(pts
+			(xy 111.76 115.57) (xy 104.14 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "664b3cc1-c380-4cd4-8692-fb9978df1363")
+	)
+	(wire
+		(pts
+			(xy 229.87 67.31) (xy 245.11 67.31)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "66609c60-01cc-4f60-90c7-3a3dc049b760")
+	)
+	(wire
+		(pts
+			(xy 160.02 36.83) (xy 160.02 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "67249f68-0490-4251-98b8-73cc34f6aa13")
+	)
+	(wire
+		(pts
+			(xy 87.63 99.06) (xy 87.63 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6905c33e-6754-4b09-a219-78c25b71cad4")
+	)
+	(wire
+		(pts
+			(xy 96.52 99.06) (xy 96.52 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "69372835-33b5-4e09-887a-09065142c398")
+	)
+	(wire
+		(pts
+			(xy 64.77 111.76) (xy 64.77 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d4d37fb-c22b-48df-84e6-208444f78027")
+	)
+	(wire
+		(pts
+			(xy 151.13 36.83) (xy 151.13 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6d866439-6d71-4330-b3ed-882a11ecb259")
+	)
+	(wire
+		(pts
+			(xy 144.78 82.55) (xy 135.89 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "6e99a949-3fc0-4cfb-8853-558f7d672354")
+	)
+	(wire
+		(pts
+			(xy 87.63 81.28) (xy 102.87 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "703f5694-44e7-409c-99b5-93ae9904588b")
+	)
+	(wire
+		(pts
+			(xy 167.64 66.04) (xy 200.66 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71169716-fe0e-4664-98ea-5fc2438d1276")
+	)
+	(wire
+		(pts
+			(xy 45.72 62.23) (xy 38.1 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71572a53-7f3e-4413-9733-b1d3b27ac9f7")
+	)
+	(wire
+		(pts
+			(xy 160.02 60.96) (xy 167.64 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73047c42-8995-4609-93b4-07fc64d952ed")
+	)
+	(wire
+		(pts
+			(xy 195.58 114.3) (xy 203.2 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "735c7603-4f3b-4e93-865a-041e9446b994")
+	)
+	(wire
+		(pts
+			(xy 96.52 111.76) (xy 96.52 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73887011-5b62-4b74-9e42-640ed0cd3c4d")
+	)
+	(wire
+		(pts
+			(xy 203.2 115.57) (xy 203.2 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "73cb68b4-123a-43b4-b1f9-83cef7f35578")
+	)
+	(wire
+		(pts
+			(xy 33.02 99.06) (xy 33.02 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7503728d-8565-4d45-9849-8108173486aa")
+	)
+	(wire
+		(pts
+			(xy 102.87 78.74) (xy 135.89 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "760296c7-5cfd-43fd-80ec-148483cd60c2")
+	)
+	(wire
+		(pts
+			(xy 96.52 91.44) (xy 96.52 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "769fa36a-be7e-4fc7-a061-7dda844a08b8")
+	)
+	(wire
+		(pts
+			(xy 215.9 40.64) (xy 229.87 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "77e569df-62fc-443b-9baf-f64036be18fd")
+	)
+	(wire
+		(pts
+			(xy 167.64 62.23) (xy 167.64 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79325596-28c9-4744-8af7-0a8924e30b9d")
+	)
+	(wire
+		(pts
+			(xy 149.86 99.06) (xy 149.86 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "79622a9b-3708-4cd8-b323-eb6af66d6bb8")
+	)
+	(wire
+		(pts
+			(xy 36.83 25.4) (xy 68.58 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7a631129-4943-4f79-a638-0debe0403cf7")
+	)
+	(wire
+		(pts
+			(xy 182.88 77.47) (xy 231.14 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7b06733b-1eea-4ebf-964a-7380a40c9eae")
+	)
+	(wire
+		(pts
+			(xy 228.6 52.07) (xy 245.11 52.07)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7c34f9ed-eec7-4b08-88a1-17396f667480")
+	)
+	(wire
+		(pts
+			(xy 232.41 97.79) (xy 232.41 72.39)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7cd001fb-828d-4d40-9ac7-2ddb3690979c")
+	)
+	(wire
+		(pts
+			(xy 33.02 91.44) (xy 33.02 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7d025b01-0024-4b74-99dd-e9e11496b1f5")
+	)
+	(wire
+		(pts
+			(xy 55.88 81.28) (xy 71.12 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "7ff42494-7189-4415-99cb-cb58a730ec81")
+	)
+	(wire
+		(pts
+			(xy 85.09 63.5) (xy 101.6 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8060e3db-12b2-49c3-bf53-5f368aa4894e")
+	)
+	(wire
+		(pts
+			(xy 109.22 38.1) (xy 109.22 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "819b719d-edfb-4629-9c71-f1402b768cd5")
+	)
+	(wire
+		(pts
+			(xy 238.76 123.19) (xy 203.2 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "819e3efb-79d0-423d-8b0a-20d56dbc2239")
+	)
+	(wire
+		(pts
+			(xy 80.01 99.06) (xy 83.82 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "826c1e20-f394-42de-b951-3894969876e1")
+	)
+	(wire
+		(pts
+			(xy 87.63 91.44) (xy 87.63 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "82d3bbd8-c906-4877-bc64-42b0a2023a94")
+	)
+	(wire
+		(pts
+			(xy 168.91 78.74) (xy 201.93 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "832a5329-136e-4efc-8c62-e1f1bfd0f4c9")
+	)
+	(wire
+		(pts
+			(xy 137.16 115.57) (xy 137.16 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8371dacb-5f78-4319-b87f-ecd36da9cc11")
+	)
+	(wire
+		(pts
+			(xy 177.8 114.3) (xy 170.18 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "83a6e279-90cc-4eb6-9de9-587b24ec3c6a")
+	)
+	(wire
+		(pts
+			(xy 195.58 110.49) (xy 195.58 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84a62d47-2522-426c-a1c8-4ba829d9471f")
+	)
+	(wire
+		(pts
+			(xy 149.86 76.2) (xy 229.87 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "84d7dc08-ec82-48a5-976d-33126024d340")
+	)
+	(wire
+		(pts
+			(xy 238.76 74.93) (xy 238.76 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "857014cb-1499-41db-9416-13746566c29a")
+	)
+	(wire
+		(pts
+			(xy 102.87 81.28) (xy 102.87 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "892e445f-67a7-41ee-a5d8-a9c75950a8ba")
+	)
+	(wire
+		(pts
+			(xy 87.63 116.84) (xy 104.14 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "892f1153-13de-43bd-8d5c-9c772d661475")
+	)
+	(wire
+		(pts
+			(xy 147.32 21.59) (xy 214.63 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a0ebeb1-b51e-491c-a4dd-62c22d5cce65")
+	)
+	(wire
+		(pts
+			(xy 53.34 27.94) (xy 68.58 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ad028f8-90c8-4bf9-9419-45e2ca6fd3b3")
+	)
+	(wire
+		(pts
+			(xy 127 38.1) (xy 127 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8b941abd-fd02-4f7f-b090-dfb4263f3389")
+	)
+	(wire
+		(pts
+			(xy 39.37 82.55) (xy 39.37 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8cd66796-1458-4262-a95f-74787bfa5233")
+	)
+	(wire
+		(pts
+			(xy 134.62 63.5) (xy 134.62 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8d6810f2-77ad-4f2e-ba9c-640f1645e0b8")
+	)
+	(wire
+		(pts
+			(xy 96.52 82.55) (xy 102.87 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8dceeb9b-2e86-4537-8ff4-6d7cebecabe4")
+	)
+	(wire
+		(pts
+			(xy 147.32 45.72) (xy 147.32 21.59)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8f322c67-c7f1-41cb-a407-368feed36398")
+	)
+	(wire
+		(pts
+			(xy 142.24 29.21) (xy 133.35 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8ff66e20-7806-4d92-bc01-1865851099bb")
+	)
+	(wire
+		(pts
+			(xy 113.03 45.72) (xy 113.03 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "909e4c2c-fdd4-4068-9cac-6166ff4a501e")
+	)
+	(wire
+		(pts
+			(xy 184.15 26.67) (xy 199.39 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "924943de-385b-47d8-a84c-4a960ef14f5e")
+	)
+	(wire
+		(pts
+			(xy 175.26 44.45) (xy 175.26 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92c0544e-bec2-426e-bc67-60544d93e0a2")
+	)
+	(wire
+		(pts
+			(xy 166.37 25.4) (xy 166.37 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94473462-a3e5-4d11-9748-468738664f8d")
+	)
+	(wire
+		(pts
+			(xy 33.02 111.76) (xy 33.02 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9507fb23-a954-4954-8ef0-215c686ce7d6")
+	)
+	(wire
+		(pts
+			(xy 93.98 45.72) (xy 93.98 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95f0d4cd-d8df-4baf-a079-8c0e6ac5e9f4")
+	)
+	(wire
+		(pts
+			(xy 210.82 90.17) (xy 210.82 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96648ce6-317e-4d71-baa4-fe21836500f7")
+	)
+	(wire
+		(pts
+			(xy 151.13 62.23) (xy 167.64 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "968a16ab-8a57-47a0-851f-7189e8ac3e47")
+	)
+	(wire
+		(pts
+			(xy 229.87 40.64) (xy 229.87 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "96d40e9b-11b8-47d0-b7be-56547ad96a5e")
+	)
+	(wire
+		(pts
+			(xy 144.78 99.06) (xy 144.78 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "972f8b51-3188-4a30-933d-00f375db45e5")
+	)
+	(wire
+		(pts
+			(xy 135.89 78.74) (xy 168.91 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "97c1aa4c-3c14-4c17-9b4e-e0c5db4ddefe")
+	)
+	(wire
+		(pts
+			(xy 193.04 27.94) (xy 199.39 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "98dd3fa8-5437-4e1f-a167-bf879db1bcbb")
+	)
+	(wire
+		(pts
+			(xy 231.14 46.99) (xy 245.11 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9b274cf2-154f-4b13-987d-30fc7431ae9c")
+	)
+	(wire
+		(pts
+			(xy 53.34 45.72) (xy 53.34 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9c251ce7-0c1a-4ae3-8f51-79672ff104d3")
+	)
+	(wire
+		(pts
+			(xy 45.72 29.21) (xy 36.83 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ca1e0f8-e36a-4713-bd71-2423753e79ef")
+	)
+	(wire
+		(pts
+			(xy 53.34 63.5) (xy 69.85 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9de09190-7899-4902-8bfd-09785151b37b")
+	)
+	(wire
+		(pts
+			(xy 170.18 123.19) (xy 137.16 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fd01356-befc-41ba-a192-87a6b697a525")
+	)
+	(wire
+		(pts
+			(xy 208.28 36.83) (xy 208.28 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9fd583a9-760b-49f2-af76-88c16b3164ce")
+	)
+	(wire
+		(pts
+			(xy 38.1 66.04) (xy 69.85 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a01628a2-108a-4b38-b3c7-019028c59420")
+	)
+	(wire
+		(pts
+			(xy 208.28 44.45) (xy 208.28 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a09431bd-cb81-49c6-ad49-0d437b4fa78c")
+	)
+	(wire
+		(pts
+			(xy 151.13 44.45) (xy 151.13 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a1059869-2351-4309-b9bf-7a7f211c42ba")
+	)
+	(wire
+		(pts
+			(xy 241.3 77.47) (xy 245.11 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a13e66cd-0a65-4251-85ac-d0b46817b8bd")
+	)
+	(wire
+		(pts
+			(xy 45.72 58.42) (xy 45.72 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a323db0c-2b15-4c15-ae88-3b65c47b609c")
+	)
+	(wire
+		(pts
+			(xy 81.28 45.72) (xy 81.28 19.05)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a35cb088-7adf-480f-aeb8-1eca7d60ea22")
+	)
+	(wire
+		(pts
+			(xy 177.8 90.17) (xy 177.8 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5202780-ab07-461c-af6c-16f038e67ef2")
+	)
+	(wire
+		(pts
+			(xy 93.98 38.1) (xy 93.98 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a5988a80-db9d-453c-8cb5-3719a8d1b61e")
+	)
+	(wire
+		(pts
+			(xy 48.26 99.06) (xy 48.26 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a6c2c87b-bfd4-455a-8dc6-853935d18024")
+	)
+	(wire
+		(pts
+			(xy 116.84 99.06) (xy 116.84 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a9ae4f38-a3f1-4263-98ae-0da7496ca245")
+	)
+	(wire
+		(pts
+			(xy 77.47 38.1) (xy 77.47 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "aa6b7e0a-5a12-423d-b4d6-917b95072ed1")
+	)
+	(wire
+		(pts
+			(xy 217.17 19.05) (xy 217.17 39.37)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "acbfcd26-e49f-415c-94d1-84efe11a9311")
+	)
+	(wire
+		(pts
+			(xy 238.76 74.93) (xy 245.11 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b494df2b-79fa-49b2-a198-2788b76349bb")
+	)
+	(wire
+		(pts
+			(xy 71.12 82.55) (xy 71.12 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b4a240e3-c52b-4f94-8815-8f0bec7c2dcf")
+	)
+	(wire
+		(pts
+			(xy 142.24 45.72) (xy 142.24 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b55cd8b8-f366-416e-9eda-3910832e6202")
+	)
+	(wire
+		(pts
+			(xy 227.33 54.61) (xy 245.11 54.61)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b63bd064-54db-434d-b087-2c544b43a8d3")
+	)
+	(wire
+		(pts
+			(xy 40.64 116.84) (xy 40.64 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b6c4b3b7-175e-42e8-a100-d911960e89a5")
+	)
+	(wire
+		(pts
+			(xy 38.1 62.23) (xy 38.1 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8310357-e71f-4445-910b-9b07890a1001")
+	)
+	(wire
+		(pts
+			(xy 227.33 73.66) (xy 227.33 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b833be80-d0c3-4752-b88e-bb4a1062d6c7")
+	)
+	(wire
+		(pts
+			(xy 151.13 26.67) (xy 166.37 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b8aeb06a-f375-48e5-8bf1-f92633ea015f")
+	)
+	(wire
+		(pts
+			(xy 208.28 44.45) (xy 226.06 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b93fa3e5-a0fb-4410-a31c-15f3fc73058c")
+	)
+	(wire
+		(pts
+			(xy 201.93 81.28) (xy 201.93 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bac2da6a-335d-4a6e-bd8e-442574d899f8")
+	)
+	(wire
+		(pts
+			(xy 69.85 62.23) (xy 69.85 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb4eb3c3-93b9-49fd-84d1-479e4ff4b1e2")
+	)
+	(wire
+		(pts
+			(xy 113.03 20.32) (xy 215.9 20.32)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bb8b55eb-ca3c-4ae6-b060-0df5eba2e8be")
+	)
+	(wire
+		(pts
+			(xy 228.6 74.93) (xy 228.6 64.77)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbbd3ecc-80a1-4dae-b750-ce17ca2e9e05")
+	)
+	(wire
+		(pts
+			(xy 175.26 36.83) (xy 175.26 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bbdeeae3-8b6a-4d19-9a91-7bc6589ee6bf")
+	)
+	(wire
+		(pts
+			(xy 24.13 91.44) (xy 24.13 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc15aa3e-1ca8-44ad-8ab5-49de7d80d95c")
+	)
+	(wire
+		(pts
+			(xy 218.44 17.78) (xy 218.44 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bc80dc1e-9768-4131-a459-8fe4efba1ec0")
+	)
+	(wire
+		(pts
+			(xy 72.39 123.19) (xy 40.64 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bdc88eae-295f-44b6-ba1e-9e5389a7c5d9")
+	)
+	(wire
+		(pts
+			(xy 186.69 80.01) (xy 201.93 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "be65a117-0588-4c5e-b6ce-8bb076a32f01")
+	)
+	(wire
+		(pts
+			(xy 226.06 57.15) (xy 245.11 57.15)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "bfc429ce-298b-4bb0-906c-15db0f66a8dc")
+	)
+	(wire
+		(pts
+			(xy 193.04 57.15) (xy 193.04 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c009b0c9-dc40-42c6-8644-df3216dfbd1c")
+	)
+	(wire
+		(pts
+			(xy 77.47 45.72) (xy 77.47 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c0e3b7bb-b0dc-489a-8486-e116413bb8a8")
+	)
+	(wire
+		(pts
+			(xy 68.58 27.94) (xy 68.58 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c117c089-1508-43e1-ba0d-d25155c5efa4")
+	)
+	(wire
+		(pts
+			(xy 170.18 114.3) (xy 170.18 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1652c03-c50d-49c1-a0d7-d6b3a0d0796e")
+	)
+	(wire
+		(pts
+			(xy 55.88 91.44) (xy 55.88 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c1bff602-0fe4-4aba-82cc-7bc89c784c8e")
+	)
+	(wire
+		(pts
+			(xy 153.67 97.79) (xy 153.67 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c27336c6-eb35-4610-9768-c1fbf594a398")
+	)
+	(wire
+		(pts
+			(xy 142.24 38.1) (xy 142.24 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c274695f-4829-4106-86e8-790e52d9d2ee")
+	)
+	(wire
+		(pts
+			(xy 135.89 81.28) (xy 135.89 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2c98f09-fff9-4d51-9543-1df4ccb2618c")
+	)
+	(wire
+		(pts
+			(xy 195.58 97.79) (xy 195.58 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2d9166f-0054-46c9-bc05-f71c6e8f7e7c")
+	)
+	(wire
+		(pts
+			(xy 83.82 73.66) (xy 227.33 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c2f4030e-59fb-4011-8d96-35d03759c536")
+	)
+	(wire
+		(pts
+			(xy 21.59 63.5) (xy 38.1 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c3695a0f-f07f-46af-b641-1e1af3cf8cca")
+	)
+	(wire
+		(pts
+			(xy 109.22 58.42) (xy 109.22 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c4b743e2-9bd6-4916-a630-b09220e7ef28")
+	)
+	(wire
+		(pts
+			(xy 33.02 82.55) (xy 39.37 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c56b8698-c84e-425b-b8a0-d36f641ab350")
+	)
+	(wire
+		(pts
+			(xy 111.76 82.55) (xy 102.87 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c59c66c5-d40e-4126-8dbd-514b76a8f40c")
+	)
+	(wire
+		(pts
+			(xy 21.59 45.72) (xy 21.59 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c5c85915-45d4-4645-b8a6-8c7806a54d08")
+	)
+	(wire
+		(pts
+			(xy 144.78 99.06) (xy 149.86 99.06)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c6c1889f-a515-43f7-a7cf-3f1e55ec08c6")
+	)
+	(wire
+		(pts
+			(xy 142.24 45.72) (xy 147.32 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c81da270-3dcb-4049-818d-271bf41fbc3c")
+	)
+	(wire
+		(pts
+			(xy 36.83 27.94) (xy 36.83 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9316cf2-7550-476f-b8ee-17710eeafcd8")
+	)
+	(wire
+		(pts
+			(xy 168.91 81.28) (xy 168.91 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c94a5b67-943b-4213-af55-98ece799f33b")
+	)
+	(wire
+		(pts
+			(xy 177.8 97.79) (xy 182.88 97.79)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9dbdad8-8bb8-4d4d-ac01-5d2dcd39a54f")
+	)
+	(wire
+		(pts
+			(xy 111.76 91.44) (xy 111.76 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "c9eaeb2e-e4a9-4c83-8cde-38c48ee3f88e")
+	)
+	(wire
+		(pts
+			(xy 17.78 66.04) (xy 38.1 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cab9cf99-c834-4025-9f35-f8467e7729a0")
+	)
+	(wire
+		(pts
+			(xy 62.23 62.23) (xy 69.85 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cae64974-d7dc-4b46-9151-832bb47e7d0d")
+	)
+	(wire
+		(pts
+			(xy 96.52 115.57) (xy 104.14 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb2abac2-5890-44cc-9212-d63a49c741df")
+	)
+	(wire
+		(pts
+			(xy 101.6 62.23) (xy 101.6 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbb8fb51-07c1-453c-82ef-c4dd31839669")
+	)
+	(wire
+		(pts
+			(xy 129.54 111.76) (xy 129.54 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbc376c5-77fd-4601-8696-d545583b7085")
+	)
+	(wire
+		(pts
+			(xy 30.48 38.1) (xy 30.48 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cbf73eea-0c2f-4662-803a-77257f2f5109")
+	)
+	(wire
+		(pts
+			(xy 101.6 66.04) (xy 134.62 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc217dd9-b637-4f69-9e5d-52b52c5e3767")
+	)
+	(wire
+		(pts
+			(xy 45.72 45.72) (xy 49.53 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc2c45dd-e2a8-43ea-a401-f3e9e03fad63")
+	)
+	(wire
+		(pts
+			(xy 134.62 66.04) (xy 167.64 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cc8c7412-ff65-4de6-9f79-69fe3970ab38")
+	)
+	(wire
+		(pts
+			(xy 38.1 63.5) (xy 38.1 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cd0dc5c8-2405-4569-9c26-6e9e834e6856")
+	)
+	(wire
+		(pts
+			(xy 36.83 25.4) (xy 13.97 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cdf2a088-19cb-4fc9-8a54-8a1b966ef567")
+	)
+	(wire
+		(pts
+			(xy 137.16 116.84) (xy 137.16 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ce838ead-efd3-45e2-9f74-f3c968f549b2")
+	)
+	(wire
+		(pts
+			(xy 69.85 66.04) (xy 101.6 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cedff5b0-9f17-4b68-b040-54a997f0618d")
+	)
+	(wire
+		(pts
+			(xy 62.23 29.21) (xy 68.58 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d003bace-7b78-4903-9b98-4a59ccbb2261")
+	)
+	(wire
+		(pts
+			(xy 208.28 57.15) (xy 208.28 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d0d8c4a8-a1ca-46e4-8a65-c9656bc68af0")
+	)
+	(wire
+		(pts
+			(xy 102.87 82.55) (xy 102.87 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d2000964-b7dc-485c-84de-c7314f08e7b4")
+	)
+	(wire
+		(pts
+			(xy 64.77 115.57) (xy 72.39 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d27083cd-6685-4ef6-be82-0185a4949420")
+	)
+	(wire
+		(pts
+			(xy 21.59 27.94) (xy 36.83 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d3ffc1c4-4149-4839-8d24-f4c3246cb818")
+	)
+	(wire
+		(pts
+			(xy 193.04 36.83) (xy 193.04 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d4484a15-6d80-442d-9d74-1c80fb0f6f93")
+	)
+	(wire
+		(pts
+			(xy 71.12 81.28) (xy 71.12 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d53dc449-e687-47e6-b111-de630b037938")
+	)
+	(wire
+		(pts
+			(xy 13.97 78.74) (xy 13.97 125.73)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d6b39311-6dc9-4593-a93d-f3c4064514c1")
+	)
+	(wire
+		(pts
+			(xy 30.48 62.23) (xy 38.1 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d726b792-ae04-4f12-a089-8ee5340d8a92")
+	)
+	(wire
+		(pts
+			(xy 208.28 60.96) (xy 200.66 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d7432024-b3fc-4f88-9351-fbd4e37cff62")
+	)
+	(wire
+		(pts
+			(xy 64.77 91.44) (xy 64.77 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d76fa7bf-3388-442e-8bc2-f884dfab0134")
+	)
+	(wire
+		(pts
+			(xy 162.56 110.49) (xy 162.56 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d86647c2-ef31-4eb2-969f-b131df0b6bee")
+	)
+	(wire
+		(pts
+			(xy 93.98 62.23) (xy 101.6 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8781094-0bbe-4ac2-8b66-6b24edf12126")
+	)
+	(wire
+		(pts
+			(xy 129.54 115.57) (xy 137.16 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8f46e78-b1c2-47fd-97ea-1ed2de055e3c")
+	)
+	(wire
+		(pts
+			(xy 109.22 62.23) (xy 101.6 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d9173502-42e1-474e-aef2-03eae8358e3f")
+	)
+	(wire
+		(pts
+			(xy 129.54 99.06) (xy 129.54 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da045f27-f050-487a-a55f-e79513b60538")
+	)
+	(wire
+		(pts
+			(xy 101.6 63.5) (xy 101.6 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da1db126-3f58-42bd-9ee0-a05d01b62d45")
+	)
+	(wire
+		(pts
+			(xy 133.35 25.4) (xy 166.37 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "da239afe-b32f-4164-b04a-7df8934b4fca")
+	)
+	(wire
+		(pts
+			(xy 55.88 116.84) (xy 72.39 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daa072c5-15c9-4221-977f-ed201f7a7ab1")
+	)
+	(wire
+		(pts
+			(xy 77.47 45.72) (xy 81.28 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "daeb9d75-777f-4d61-abed-3cca21f56596")
+	)
+	(wire
+		(pts
+			(xy 199.39 27.94) (xy 199.39 26.67)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc26279a-be6a-478a-af80-a0876d19ae69")
+	)
+	(wire
+		(pts
+			(xy 71.12 78.74) (xy 102.87 78.74)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc62c0eb-ca96-4ea3-80d3-606243f46724")
+	)
+	(wire
+		(pts
+			(xy 162.56 81.28) (xy 168.91 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dc8fd0c5-2c6f-4488-85bf-5221c6b1cba6")
+	)
+	(wire
+		(pts
+			(xy 30.48 58.42) (xy 30.48 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd257980-57c7-4c2e-9a97-83450e560457")
+	)
+	(wire
+		(pts
+			(xy 193.04 44.45) (xy 193.04 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dd51b975-1fad-4dfb-98c9-8c79e955409c")
+	)
+	(wire
+		(pts
+			(xy 93.98 58.42) (xy 93.98 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dda43ad0-5e69-433d-847f-60370493e1dd")
+	)
+	(wire
+		(pts
+			(xy 45.72 38.1) (xy 45.72 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de234944-e588-4b26-b589-81775e353a21")
+	)
+	(wire
+		(pts
+			(xy 180.34 22.86) (xy 213.36 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de3e8925-fd4b-4d9f-b739-0fd1b5339bd8")
+	)
+	(wire
+		(pts
+			(xy 120.65 91.44) (xy 120.65 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "de9f3ce5-3a17-4d89-8042-f07431c44855")
+	)
+	(wire
+		(pts
+			(xy 80.01 82.55) (xy 71.12 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "deec4f28-cb04-45ba-83df-45c0e07d04f3")
+	)
+	(wire
+		(pts
+			(xy 175.26 27.94) (xy 166.37 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0e1923b-9438-4a11-b91e-c17eb0604850")
+	)
+	(wire
+		(pts
+			(xy 118.11 27.94) (xy 133.35 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e24773b8-9d07-4ee9-b675-aecacf5cf235")
+	)
+	(wire
+		(pts
+			(xy 116.84 74.93) (xy 228.6 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2614574-9625-4ebc-ab7a-a49ae233b383")
+	)
+	(wire
+		(pts
+			(xy 229.87 67.31) (xy 229.87 76.2)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e2a83851-b6e5-49ec-8b52-e148341ee604")
+	)
+	(wire
+		(pts
+			(xy 48.26 91.44) (xy 48.26 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e3ed290c-4976-4b45-93ba-9479dd18b47f")
+	)
+	(wire
+		(pts
+			(xy 186.69 115.57) (xy 203.2 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e5526686-d605-49f8-9528-95a2e942fc72")
+	)
+	(wire
+		(pts
+			(xy 153.67 80.01) (xy 168.91 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e709ef0c-504c-4aab-934b-31570e89c979")
+	)
+	(wire
+		(pts
+			(xy 177.8 81.28) (xy 168.91 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e75b886f-974f-468c-911d-ca9699e055b9")
+	)
+	(wire
+		(pts
+			(xy 186.69 97.79) (xy 186.69 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8810b65-aa89-49a7-9317-647c2bbc8495")
+	)
+	(wire
+		(pts
+			(xy 144.78 111.76) (xy 144.78 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e89acdd1-a438-49e9-8a87-eafb75e2ec14")
+	)
+	(wire
+		(pts
+			(xy 93.98 29.21) (xy 100.33 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e8ccb76a-d452-4008-bb2d-8cf49c8fa190")
+	)
+	(wire
+		(pts
+			(xy 241.3 125.73) (xy 241.3 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e991bf18-2f2d-48fd-aa3f-d402e7951862")
+	)
+	(wire
+		(pts
+			(xy 177.8 110.49) (xy 177.8 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e9c322fe-8e90-4186-b5da-0b67bd42ff76")
+	)
+	(wire
+		(pts
+			(xy 168.91 78.74) (xy 168.91 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea49392b-ea67-4153-8579-ae263f775a30")
+	)
+	(wire
+		(pts
+			(xy 48.26 111.76) (xy 48.26 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ea569243-2cb4-44bd-ba75-33a8a3e400a6")
+	)
+	(wire
+		(pts
+			(xy 210.82 97.79) (xy 210.82 102.87)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eb9bc74e-c3ed-419c-87af-51b83a0dfb0a")
+	)
+	(wire
+		(pts
+			(xy 48.26 82.55) (xy 39.37 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eba90ca2-c4a3-431d-805e-11b47851cf0f")
+	)
+	(wire
+		(pts
+			(xy 100.33 29.21) (xy 100.33 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ef9e4b00-6cc5-4922-807e-5adfc7929679")
+	)
+	(wire
+		(pts
+			(xy 80.01 115.57) (xy 72.39 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "efcac0d5-fa05-4c6d-817b-f07af4dcd91e")
+	)
+	(wire
+		(pts
+			(xy 195.58 81.28) (xy 201.93 81.28)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f14851db-942a-46a0-9194-aa1f9482492d")
+	)
+	(wire
+		(pts
+			(xy 53.34 38.1) (xy 53.34 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1c1be13-93c9-48c5-b52b-41ba7388bab0")
+	)
+	(wire
+		(pts
+			(xy 100.33 27.94) (xy 100.33 25.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1cda0c4-b816-4db8-bdf3-13fb2cf852ea")
+	)
+	(wire
+		(pts
+			(xy 160.02 27.94) (xy 166.37 27.94)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f1dffa02-d71d-4741-a36a-4ff7615725e9")
+	)
+	(wire
+		(pts
+			(xy 55.88 99.06) (xy 55.88 116.84)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f2294c5d-3dca-4c19-b3e4-660489128b01")
+	)
+	(wire
+		(pts
+			(xy 33.02 115.57) (xy 40.64 115.57)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f35cf267-cdc3-4f19-a19d-ad2bd2215726")
+	)
+	(wire
+		(pts
+			(xy 83.82 99.06) (xy 83.82 73.66)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f51009ab-729f-4e8f-b676-8ac7f1bf6c24")
+	)
+	(wire
+		(pts
+			(xy 184.15 44.45) (xy 184.15 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f566ff76-e007-4cda-9c41-85732485d299")
+	)
+	(wire
+		(pts
+			(xy 210.82 114.3) (xy 203.2 114.3)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5cc330a-d62b-48fe-a773-98f20249dde2")
+	)
+	(wire
+		(pts
+			(xy 49.53 17.78) (xy 218.44 17.78)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f62c9f2f-c571-4417-975e-663a3f25aea9")
+	)
+	(wire
+		(pts
+			(xy 64.77 82.55) (xy 71.12 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f62d15db-d054-4623-bf97-f4097b609c55")
+	)
+	(wire
+		(pts
+			(xy 118.11 63.5) (xy 134.62 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7509153-7a0a-4fc6-b6d1-d589873b8de0")
+	)
+	(wire
+		(pts
+			(xy 180.34 44.45) (xy 180.34 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f7831615-0641-42cc-aac0-c666cf5da6a0")
+	)
+	(wire
+		(pts
+			(xy 127 45.72) (xy 127 50.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f91c5ff8-51db-49cc-acbf-8e6935f77ccb")
+	)
+	(wire
+		(pts
+			(xy 137.16 123.19) (xy 104.14 123.19)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f9b7a603-97dd-4d22-ab46-85900e04c93e")
+	)
+	(wire
+		(pts
+			(xy 227.33 62.23) (xy 245.11 62.23)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fdb221ca-6de0-445c-9a32-27195be9d33d")
+	)
+	(wire
+		(pts
+			(xy 17.78 123.19) (xy 17.78 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe22ede6-1b8c-4275-a3e8-9d1063a7f214")
+	)
+	(wire
+		(pts
+			(xy 109.22 45.72) (xy 113.03 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe73ff40-ef3a-49a9-b5f5-ad242063e4d7")
+	)
+	(wire
+		(pts
+			(xy 231.14 69.85) (xy 245.11 69.85)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "fe89a465-905d-4abc-bc35-ff0f9b4d930e")
+	)
+	(wire
+		(pts
+			(xy 80.01 99.06) (xy 80.01 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ff848a26-5860-4da1-ba7b-6ff8d57df196")
+	)
+	(label "GND"
+		(at 137.16 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "015ab3c4-f2a1-417b-a219-c7f6dd646365")
+	)
+	(label "IR4"
+		(at 142.24 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "01c09766-6cbf-4f66-bb7c-6a530fc64029")
+	)
+	(label "IR6"
+		(at 208.28 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "0f5c63e6-9336-40df-9061-7f081d227522")
+	)
+	(label "3v3"
+		(at 39.37 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "16570236-145f-4007-8345-665082c05a8c")
+	)
+	(label "3v3"
+		(at 168.91 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2832053b-ea55-4702-a053-0d55b5fc765b")
+	)
+	(label "IR12"
+		(at 210.82 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2ba84c77-6439-49d2-846a-90a97bf7eceb")
+	)
+	(label "GND"
+		(at 40.64 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "2e7915e5-c6ab-4cee-a3fd-41e6f70aa353")
+	)
+	(label "GND"
+		(at 170.18 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "42d63d65-5b63-445c-bc31-22f408527aa3")
+	)
+	(label "IR1"
+		(at 45.72 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "5178d97e-f1a4-4a0e-81c4-c5edd932bcf3")
+	)
+	(label "GND"
+		(at 134.62 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "579f9364-e25e-41f5-925c-97775bf0bcdf")
+	)
+	(label "IR2"
+		(at 77.47 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "79f0a34f-a14b-447d-b1ba-d7a3e28ba433")
+	)
+	(label "IR10"
+		(at 144.78 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "7eb49c39-fe3e-4639-b393-504e5b095754")
+	)
+	(label "3v3"
+		(at 71.12 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8513a1fb-9554-48ba-9e2d-12eeec019352")
+	)
+	(label "3v3"
+		(at 166.37 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "873b9c53-c4f3-42c0-85a8-a86ac9453ac1")
+	)
+	(label "GND"
+		(at 203.2 118.11 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "874fb709-ede5-4576-b2fd-5bd5595de2b5")
+	)
+	(label "3v3"
+		(at 102.87 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8c1e0c15-e751-4fe1-a42f-4334b453ae79")
+	)
+	(label "GND"
+		(at 72.39 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "8dd9c3e7-8ae5-4ec0-ac5e-937f2fc3f0b8")
+	)
+	(label "IR3"
+		(at 109.22 45.72 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "90ed90ab-b591-4272-89d8-a54aed59ff2c")
+	)
+	(label "IR8"
+		(at 80.01 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95702c38-a22d-4de2-a68f-3882789e4853")
+	)
+	(label "3v3"
+		(at 135.89 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95c7f1af-5c67-42ab-8e24-911a5ef16bb3")
+	)
+	(label "IR9"
+		(at 111.76 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "95de901b-2a3f-44fc-aeb0-ce36b5d7c194")
+	)
+	(label "3v3"
+		(at 68.58 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a29df762-ef76-4f57-87c4-eccd948e502a")
+	)
+	(label "GND"
+		(at 200.66 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a44a7ba9-ef7b-4929-8beb-29a187b25ce0")
+	)
+	(label "GND"
+		(at 38.1 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a44b83cd-699a-4976-87c7-e011edf7c11c")
+	)
+	(label "3v3"
+		(at 100.33 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "a989f61b-2c3e-4440-8867-f0a906fc0453")
+	)
+	(label "GND"
+		(at 104.14 119.38 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bea44747-3dfe-4b2e-8cbc-7fe939e22e31")
+	)
+	(label "GND"
+		(at 101.6 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c111c465-7d3a-4134-9501-795e69609215")
+	)
+	(label "IR11"
+		(at 177.8 97.79 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ca77081d-26cd-413e-a733-e64688b04b38")
+	)
+	(label "3v3"
+		(at 133.35 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "cbcb80fa-4529-4817-9d0f-61ba082e32fd")
+	)
+	(label "3v3"
+		(at 201.93 78.74 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "d64d23ba-fb33-4e77-86cc-fab1d64f1718")
+	)
+	(label "3v3"
+		(at 36.83 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e171d6d1-893b-4def-8062-2aab0df7e8e3")
+	)
+	(label "IR5"
+		(at 175.26 44.45 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "e94e8d83-21c1-4c2c-8574-28493c2ec314")
+	)
+	(label "GND"
+		(at 69.85 66.04 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "ea9173e2-d1ff-4fd3-8659-f5c89abf7e04")
+	)
+	(label "GND"
+		(at 167.64 64.77 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f08c7e52-04f0-481e-806c-bc83e18c089f")
+	)
+	(label "3v3"
+		(at 199.39 25.4 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f2e746d5-0ce1-44c2-b3f9-8e62c45b4885")
+	)
+	(label "IR7"
+		(at 48.26 99.06 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "f9f631cf-8802-4ed8-9f1e-82ed07704f97")
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 162.56 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "08e39012-7214-4ee5-88e9-1ba51c1eab25")
+		(property "Reference" "R21"
+			(at 165.1 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 165.1 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 160.782 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 162.56 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 162.56 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e350e1c8-7e01-47e6-bc93-5c45251ef9ba")
+		)
+		(pin "2"
+			(uuid "126d7dbf-60a1-408d-a9dd-52cbda35d7c5")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 109.22 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "17577e3c-c44f-4449-8223-49950ceb3e02")
+		(property "Reference" "R6"
+			(at 111.76 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 111.76 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 107.442 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 109.22 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 109.22 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b43b4581-23fa-41e5-8b53-706f9eba9077")
+		)
+		(pin "2"
+			(uuid "895d9af1-a19b-441e-8bfa-8e02665d97e6")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 203.2 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1a912255-6f56-4307-894c-a2442317c3eb")
+		(property "Reference" "U12"
+			(at 203.2 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 203.2 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 203.2 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d12c7bc1-0925-4357-a365-31150ee22e94")
+		)
+		(pin "1"
+			(uuid "8bef0193-f0ca-49d6-ab4d-ebbd2298be75")
+		)
+		(pin "3"
+			(uuid "d1a6415c-de52-4507-a42e-e455366e5f0b")
+		)
+		(pin "2"
+			(uuid "ffd44e1a-d41d-42e8-a677-8fe4b566963c")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 193.04 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "1dd32525-d250-41be-ae0a-bf7bdf084295")
+		(property "Reference" "R11"
+			(at 195.58 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 195.58 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 191.262 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 193.04 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 193.04 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "77d7653b-f745-44c4-8cbd-86ab91b275f2")
+		)
+		(pin "2"
+			(uuid "4e4789e9-7f93-4fa9-bc93-746217c6e4ef")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 120.65 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2d854724-314f-43e3-a2db-d7bd3739e348")
+		(property "Reference" "C10"
+			(at 124.46 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 124.46 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 121.6152 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 120.65 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 120.65 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2b31a3a0-546c-4808-b0dc-ad8253b86b23")
+		)
+		(pin "1"
+			(uuid "ee9eedcc-30e1-4be1-88cd-524505bcad8a")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 177.8 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "2e606d24-f7de-467b-8a91-8ca47330c161")
+		(property "Reference" "R22"
+			(at 180.34 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 180.34 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 176.022 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 177.8 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 177.8 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "5fac2602-1eed-4f8f-8d53-bdeac195dc26")
+		)
+		(pin "2"
+			(uuid "e7e46256-6de4-4b0a-92de-3a22eb2339c4")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R22")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 40.64 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30903da2-4a6a-48ca-a6b1-6d632740b5ba")
+		(property "Reference" "U7"
+			(at 40.64 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 40.64 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 40.64 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "32f4d05f-36a8-4a56-834e-6585df9d81d2")
+		)
+		(pin "1"
+			(uuid "6d13cd03-216a-41df-9de6-68fb2b2f5549")
+		)
+		(pin "3"
+			(uuid "e6ce0abb-14ba-48d2-8532-e961571c9006")
+		)
+		(pin "2"
+			(uuid "0a419274-3c87-4ba1-8a9f-86827ac3bfda")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 151.13 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "36ea2bc4-be6d-46d4-8e2d-4ab4ed93b353")
+		(property "Reference" "C5"
+			(at 154.94 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 154.94 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 152.0952 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 151.13 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 151.13 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "03318065-4de3-4c07-92e5-7492997de783")
+		)
+		(pin "1"
+			(uuid "7830a9d6-3e71-4640-ad66-d2ec7cc73dd8")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 101.6 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "414f0699-57ee-4236-a4eb-2e32909b32ee")
+		(property "Reference" "U3"
+			(at 101.6 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 101.6 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 101.6 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "47978f67-77df-4bb8-bb8e-20a6c066ecf1")
+		)
+		(pin "1"
+			(uuid "46c35877-f2d4-41e5-9e90-02f53bd46c65")
+		)
+		(pin "3"
+			(uuid "40427907-fc48-49b7-937e-cce772a7242c")
+		)
+		(pin "2"
+			(uuid "e67dabe5-1766-4c92-a43e-02dbcbbbd1a7")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 55.88 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "49f4cb6e-af78-452d-8969-fd14a5d64db1")
+		(property "Reference" "C8"
+			(at 59.69 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 59.69 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 56.8452 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 55.88 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 55.88 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "c4a32ffc-54ce-4a90-a9eb-0680b2b54321")
+		)
+		(pin "1"
+			(uuid "f9f796c2-df81-4693-be54-052c7b862df7")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 38.1 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4e2ff08c-fa8e-4be8-9351-fbcd98d460a4")
+		(property "Reference" "U1"
+			(at 38.1 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 38.1 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 38.1 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "90457c75-a00e-4181-adb0-1c08118c07a5")
+		)
+		(pin "1"
+			(uuid "676ea8fb-5915-4b85-9a4a-9d676ea425fd")
+		)
+		(pin "3"
+			(uuid "f2dbf46c-b7bc-47d3-a5f5-e14f3bc086d7")
+		)
+		(pin "2"
+			(uuid "57a0ec0a-445e-4f14-a58b-2a170761b49e")
+		)
+		(instances
+			(project ""
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 33.02 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "55080972-e837-43b3-bec7-539bf18c8fad")
+		(property "Reference" "R13"
+			(at 35.56 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 35.56 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 31.242 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 33.02 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3f88db96-bc5b-449f-a9a0-2fbf163cfa06")
+		)
+		(pin "2"
+			(uuid "ef449e83-7613-4ae0-963e-d24637cb3d56")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R13")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 210.82 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5661eb97-a86e-4ee0-abb3-551305fb04c6")
+		(property "Reference" "R24"
+			(at 213.36 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 213.36 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 209.042 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 210.82 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 210.82 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c5853224-cf57-402e-b702-c5e64ce537d0")
+		)
+		(pin "2"
+			(uuid "4b17e80e-0b9d-4db6-9e0c-416ef5781283")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R24")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 24.13 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "58704974-7427-40c2-b712-019daffd27a3")
+		(property "Reference" "C7"
+			(at 27.94 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 27.94 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 25.0952 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 24.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 24.13 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9813fb65-671e-4a2b-84ce-9153cbb3eede")
+		)
+		(pin "1"
+			(uuid "19e1bf52-ca90-4521-82d4-4218344cf9d0")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 118.11 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5a4cd923-9f51-49dc-a9cc-f87cee39b306")
+		(property "Reference" "C4"
+			(at 121.92 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 121.92 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 119.0752 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 118.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 118.11 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "628d577d-acc9-40c7-9c7b-0ee90a4224ae")
+		)
+		(pin "1"
+			(uuid "14e8bebd-025e-485a-ba6d-2385c581f04b")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 160.02 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5db9c5ce-403c-472e-a77b-856feee9062e")
+		(property "Reference" "R9"
+			(at 162.56 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 162.56 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 158.242 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 160.02 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 160.02 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d965e36b-eb4d-4cd1-96e5-798d1740f80c")
+		)
+		(pin "2"
+			(uuid "961dc183-866b-4245-9900-ed188a6e61cd")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 45.72 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "63ed106c-84e4-4cf9-bf01-aba08eeeb904")
+		(property "Reference" "R1"
+			(at 48.26 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 48.26 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 43.942 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 45.72 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6489558-731a-428c-8684-2ef82ee121ff")
+		)
+		(pin "2"
+			(uuid "0ba0d77d-8e7c-40e6-bba9-04ebe1816a18")
+		)
+		(instances
+			(project ""
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 104.14 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6d0f3601-ea7a-4738-b905-a165a93728c3")
+		(property "Reference" "U9"
+			(at 104.14 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 104.14 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 104.14 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "2225426d-8e9f-46dc-a487-7cc84d98e4b3")
+		)
+		(pin "1"
+			(uuid "96a732c6-2233-42fb-beb7-d678a384e093")
+		)
+		(pin "3"
+			(uuid "383b6512-05c2-455f-b531-23f4420466cb")
+		)
+		(pin "2"
+			(uuid "29075d62-161b-41c9-888f-43d79ab7f53b")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 87.63 95.25 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6f5453d2-f8f3-4d1c-aed6-165b363b9b43")
+		(property "Reference" "C9"
+			(at 91.44 93.9799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 91.44 96.5199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 88.5952 99.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 87.63 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 87.63 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "9e39679d-968f-442c-b868-86eba1bd006b")
+		)
+		(pin "1"
+			(uuid "bb9b2d78-58c3-4d03-a87c-1706b27cd5f7")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C9")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 111.76 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "7377c5c0-cce0-40c7-92da-467ce2fa84fe")
+		(property "Reference" "R18"
+			(at 114.3 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 114.3 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 109.982 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 111.76 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "158cc563-00c3-4e97-a1ff-23300adfa19d")
+		)
+		(pin "2"
+			(uuid "876a9ed3-8ce9-4a9a-ae1f-310000b7b541")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R18")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 208.28 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "807b3321-16c0-4a57-9d7e-d9cf539a8d91")
+		(property "Reference" "R12"
+			(at 210.82 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 210.82 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 206.502 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 208.28 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 208.28 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "509cc0e3-73f5-4678-aa9a-4e1879ba31a1")
+		)
+		(pin "2"
+			(uuid "8514c195-4bd1-4308-973b-cc9e671abc89")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 184.15 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8aeff568-1ef1-438f-99cc-6b93a2794483")
+		(property "Reference" "C6"
+			(at 187.96 39.3699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 187.96 41.9099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 185.1152 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 184.15 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 184.15 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e2e40782-f58d-4373-a090-6e4150fd028a")
+		)
+		(pin "1"
+			(uuid "379696c2-4a69-4d8a-84aa-c2a5aefd3ae0")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 77.47 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8c54f5eb-dc99-4adc-8658-de00ae6e41df")
+		(property "Reference" "R4"
+			(at 80.01 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 80.01 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 75.692 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 77.47 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 77.47 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "3c24a204-0de8-45d2-9e78-f7ebda4ee713")
+		)
+		(pin "2"
+			(uuid "d5a604e5-eb79-48ec-88d2-32a42596acc7")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 195.58 106.68 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "902dee5c-c507-4ad7-9949-fc2c54766934")
+		(property "Reference" "R23"
+			(at 198.12 105.4099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 198.12 107.9499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 193.802 106.68 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 195.58 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 195.58 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9f15f670-13ac-4261-8571-93a3664e3e87")
+		)
+		(pin "2"
+			(uuid "5c69a585-3146-45ac-aa10-c4d28042e6b4")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 64.77 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "90721202-71fc-4e00-abee-6f81e9053224")
+		(property "Reference" "R15"
+			(at 67.31 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 67.31 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 62.992 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 64.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 64.77 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "fb547ebb-bd29-42ab-bd8d-991f1ce75903")
+		)
+		(pin "2"
+			(uuid "48a470f0-f071-4628-b789-347409d46d8f")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R15")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 30.48 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "94c913e8-e690-4bfe-b760-d7cfdce3cd8a")
+		(property "Reference" "R2"
+			(at 33.02 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 33.02 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 28.702 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 30.48 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "2d698f0c-527f-466b-86b5-d83b301330a9")
+		)
+		(pin "2"
+			(uuid "78421d11-b7d6-46e8-89b0-624ac2466347")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 21.59 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9bb76cfc-ef5d-438e-b4b6-5f02903f79d3")
+		(property "Reference" "C1"
+			(at 25.4 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 25.4 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 22.5552 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 21.59 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 21.59 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "f33e4052-8dbb-4b33-8661-226b33533993")
+		)
+		(pin "1"
+			(uuid "6e10ca34-8787-42ac-805d-f86ae1b4712f")
+		)
+		(instances
+			(project ""
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 137.16 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "9c8dab07-22a7-4d00-9c56-356bea03e9a6")
+		(property "Reference" "U10"
+			(at 137.16 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 137.16 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 137.16 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "c1fa5a97-a2e1-4fd9-9476-b3e68b9b4434")
+		)
+		(pin "1"
+			(uuid "274bb154-4afe-45ae-9cf5-004138bb1da4")
+		)
+		(pin "3"
+			(uuid "a181ce45-7ab1-4816-be38-9567200e490a")
+		)
+		(pin "2"
+			(uuid "d0a70257-3ce8-4195-871b-f485294a9243")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 186.69 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a3d5b0a0-b978-45c3-972f-a195e59fae5a")
+		(property "Reference" "C12"
+			(at 190.5 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 190.5 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 187.6552 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 186.69 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 186.69 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "e3b41ccf-565e-490f-bc9d-3d0cd4c7b59d")
+		)
+		(pin "1"
+			(uuid "f8a1346a-a53d-4ae0-b11e-87ff3addec40")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C12")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 85.09 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a47130be-98b9-416f-8327-2f49860ab40b")
+		(property "Reference" "C3"
+			(at 88.9 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 88.9 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 86.0552 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 85.09 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "a42eed78-7835-4f25-ba47-e3d5ef104b30")
+		)
+		(pin "1"
+			(uuid "c528d53d-7e85-4aea-9724-71ca8591b24d")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 72.39 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ad33a563-5a1a-44bf-b1cb-6e2e8e68491f")
+		(property "Reference" "U8"
+			(at 72.39 83.82 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 72.39 86.36 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 72.39 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "161ac773-58fe-4caf-9701-bbe5b0ede9c3")
+		)
+		(pin "1"
+			(uuid "3fd241f2-dab7-48ec-b1f2-f0b5509a064b")
+		)
+		(pin "3"
+			(uuid "760278ee-ba97-43fd-aad4-ea148e9a243e")
+		)
+		(pin "2"
+			(uuid "237be4f1-5084-4002-b279-69c103307151")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 127 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aea03766-f5db-46cb-988e-9769d315b14d")
+		(property "Reference" "R7"
+			(at 129.54 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 129.54 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 125.222 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 127 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 127 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7454b20e-6190-4380-9ce5-07dd52cc181e")
+		)
+		(pin "2"
+			(uuid "e98d61e7-a5ad-44d8-896c-6504ae0021c4")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 53.34 41.91 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b4fedd10-f87b-4c76-982b-f624b773cce0")
+		(property "Reference" "C2"
+			(at 57.15 40.6399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 57.15 43.1799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 54.3052 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 53.34 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 53.34 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "2caeff51-11ec-42d8-b775-1a8f4948ac6e")
+		)
+		(pin "1"
+			(uuid "5745445c-1119-439e-888d-d70de2e04df0")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 170.18 92.71 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "bdb34392-f304-4c5e-aa07-a7611de7cda9")
+		(property "Reference" "U11"
+			(at 170.18 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 170.18 85.09 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 170.18 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "fa597fd9-bafa-41f7-825d-ff09415c0d18")
+		)
+		(pin "1"
+			(uuid "b686f9c2-9e1a-4093-a074-05afc4b942c1")
+		)
+		(pin "3"
+			(uuid "41821433-3423-4962-8bb9-b9320d4e82df")
+		)
+		(pin "2"
+			(uuid "577e1e61-d8ed-4189-a4d5-c169b7ef86ba")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:C")
+		(at 153.67 93.98 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c53972d4-1b98-429d-95ce-2ea3bf656520")
+		(property "Reference" "C11"
+			(at 157.48 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "0.1uF"
+			(at 157.48 95.2499 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric_Pad1.08x0.95mm_HandSolder"
+			(at 154.6352 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 153.67 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "64119764-3151-4d0f-abcb-32a94e12eebc")
+		)
+		(pin "1"
+			(uuid "b59fc3e8-0e2f-4490-9b91-c67f19767afe")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "C11")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 144.78 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "c92518f8-cc5d-4599-9542-fcf054e2bd0f")
+		(property "Reference" "R20"
+			(at 147.32 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 147.32 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 143.002 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 144.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 144.78 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "72054a11-cad0-4ac5-b9c1-f42619676095")
+		)
+		(pin "2"
+			(uuid "d5707ad0-9ef5-4e4a-85e5-4a9a9567af59")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R20")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 69.85 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ca5c7824-5a66-4655-aa07-28f4a0f046db")
+		(property "Reference" "U2"
+			(at 69.85 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 69.85 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 69.85 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "73682a28-a788-4037-b020-f61c9e44bff0")
+		)
+		(pin "1"
+			(uuid "0f60a230-db5d-4051-b6ec-4d4b564e51f6")
+		)
+		(pin "3"
+			(uuid "a9a0d968-e1ba-420c-823a-d7b7675b4c91")
+		)
+		(pin "2"
+			(uuid "ed9cc93b-c77a-4542-b6a0-33995f3a51b4")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 48.26 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb9bf760-81f4-4d72-8b79-059ce9c01414")
+		(property "Reference" "R14"
+			(at 50.8 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 50.8 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 46.482 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 48.26 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 48.26 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "25c50737-21e8-4a40-88d9-21b72ac638d5")
+		)
+		(pin "2"
+			(uuid "2f3af967-be83-4ae4-9565-d8d53f2b4962")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R14")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 175.26 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cd740dfe-a4a2-4c2d-9017-6cbb22d6722b")
+		(property "Reference" "R10"
+			(at 177.8 52.0699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 177.8 54.6099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 173.482 53.34 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 175.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 175.26 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "61de16f0-9b7e-493e-86ec-627c4faa736e")
+		)
+		(pin "2"
+			(uuid "526616e6-0288-49ca-b566-89774a869e70")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R10")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:Conn_01x14_Pin")
+		(at 250.19 59.69 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ce14e08e-8c51-4049-a13b-8f370e9441e6")
+		(property "Reference" "J1"
+			(at 251.46 59.6899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "Conn_01x14_Pin"
+			(at 251.46 62.2299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x14_P2.54mm_Vertical"
+			(at 250.19 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 250.19 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x14, script generated"
+			(at 250.19 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "5"
+			(uuid "348489f0-4a23-4602-8bef-61afdec9fcd6")
+		)
+		(pin "7"
+			(uuid "6fd8dbdc-77d9-4c58-bb23-aeb61352a868")
+		)
+		(pin "1"
+			(uuid "41de9f68-d6b5-45b1-89ca-89352379a7fe")
+		)
+		(pin "2"
+			(uuid "f4d9f3d4-963a-480f-ae56-2dd81e15c8b2")
+		)
+		(pin "4"
+			(uuid "b6a90d94-5430-4a7a-aa8d-50fa55bd20ec")
+		)
+		(pin "3"
+			(uuid "16d155ae-4e9d-456a-b9bd-60f33dd69086")
+		)
+		(pin "6"
+			(uuid "1526d39b-9909-4062-a44b-86428bbf4fbf")
+		)
+		(pin "14"
+			(uuid "03b1f231-240b-4796-9198-266b0e1f0ea4")
+		)
+		(pin "8"
+			(uuid "52563b06-c696-4525-ae46-3b10c4a15c5a")
+		)
+		(pin "10"
+			(uuid "17d001e8-26e0-4341-85b4-9bd05da512a2")
+		)
+		(pin "12"
+			(uuid "0256b225-1d7c-4999-a775-42c6d019dfe9")
+		)
+		(pin "13"
+			(uuid "a1a4d645-121a-4201-9e14-8ba3513b6d22")
+		)
+		(pin "11"
+			(uuid "f57818a4-605a-40d5-8aa5-23f747e11bff")
+		)
+		(pin "9"
+			(uuid "be431675-7b35-4a7e-bfba-dd63c8990469")
+		)
+		(instances
+			(project ""
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 80.01 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "db8c1919-f2aa-455b-95f0-c57f887bb91b")
+		(property "Reference" "R16"
+			(at 82.55 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 82.55 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 78.232 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 80.01 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 80.01 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "6c69a8f6-b74d-4779-a5e8-64a5d584a2e2")
+		)
+		(pin "2"
+			(uuid "f7827893-2ff6-4635-b6d4-8950b0d1649d")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 200.66 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "dce4703c-cb92-45c0-9134-6c187c346e8c")
+		(property "Reference" "U6"
+			(at 200.66 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 200.66 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 200.66 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "d98dc6a6-e5a1-4b20-8502-ea9d12440e29")
+		)
+		(pin "1"
+			(uuid "12a956f5-652a-4edf-a1cd-5194cbf26484")
+		)
+		(pin "3"
+			(uuid "5c7257b1-fcb0-42e6-845f-5f1e13eb7b85")
+		)
+		(pin "2"
+			(uuid "6df76925-e370-426d-a335-3f9d89181359")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 96.52 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e50dc161-9582-40fb-a57c-c4254d173bbc")
+		(property "Reference" "R17"
+			(at 99.06 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 99.06 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 94.742 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 96.52 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "d798fe07-0d2f-4f25-89bd-181f422f472c")
+		)
+		(pin "2"
+			(uuid "f7dd86eb-db40-44f6-80f5-444af7c47825")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R17")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 167.64 39.37 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5ba5d8c-f086-49bf-9e89-addbef95808d")
+		(property "Reference" "U5"
+			(at 167.64 29.21 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 167.64 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 167.64 39.37 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "1ad53a89-5dfc-47c1-84c3-47c6922cd566")
+		)
+		(pin "1"
+			(uuid "e9335846-69f1-4503-ac28-104eac5e7bed")
+		)
+		(pin "3"
+			(uuid "88b18e1b-227d-4867-b3a0-25e2c80afecb")
+		)
+		(pin "2"
+			(uuid "0f65aae1-c0d5-41b3-8484-46c2e2b77bc4")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 62.23 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ea1e921f-11bb-4875-9cb2-9d3e1336e67a")
+		(property "Reference" "R3"
+			(at 64.77 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 64.77 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 60.452 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 62.23 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 62.23 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "339cdbdd-370b-4b4c-8782-97f2142b3480")
+		)
+		(pin "2"
+			(uuid "8aaa86f8-7228-4450-b827-4b9c3f8e939b")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R3")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 129.54 107.95 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ebbc6f39-b4fc-40f0-b81c-00862d8a6bc9")
+		(property "Reference" "R19"
+			(at 132.08 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 132.08 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 127.762 107.95 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 129.54 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "898c4a80-7688-4fe6-9b0b-4b696951aae6")
+		)
+		(pin "2"
+			(uuid "ead781f5-1dca-4624-9605-2a821463df20")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R19")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 93.98 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f13afccd-0571-4472-97dd-64331d852660")
+		(property "Reference" "R5"
+			(at 96.52 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "220"
+			(at 96.52 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 92.202 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 93.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 93.98 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "c5436ed2-7ca3-433b-afa9-8b0d5e8e6a31")
+		)
+		(pin "2"
+			(uuid "404ecf00-6796-46f0-a561-6df28fc0ad0a")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "TCRT5000L:TCRT5000L")
+		(at 134.62 40.64 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f9841a71-fbdb-4ce0-af3f-6e0242a866cb")
+		(property "Reference" "U4"
+			(at 134.62 30.48 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TCRT5000L"
+			(at 134.62 33.02 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "TCRT5000L:XDCR_TCRT5000L"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "MF" "Vishay"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "DESCRIPTION" "TCRT5000 Series 940 nm 100 mA 60 mA Transistor Output Reflective Optical Sensor"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PACKAGE" "PCB Mount Vishay"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "PRICE" "0.60 USD"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Package" "None"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Check_prices" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=eda"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Price" "None"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "SnapEDA_Link" "https://www.snapeda.com/parts/TCRT5000L/Vishay+Semiconductor+Opto+Division/view-part/?ref=snap"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "MP" "TCRT5000L"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Availability" "In Stock"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "AVAILABILITY" "Good"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(property "Description_1" "Reflective Optical Sensor 0.591 (15mm) PCB Mount"
+			(at 134.62 40.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify bottom)
+				(hide yes)
+			)
+		)
+		(pin "4"
+			(uuid "0bef506f-87aa-46ec-b051-569737cbee8a")
+		)
+		(pin "1"
+			(uuid "bcd51193-c054-4124-8cd4-233623b81a02")
+		)
+		(pin "3"
+			(uuid "2b9f054a-a125-43ed-9d9a-d21b26f8f195")
+		)
+		(pin "2"
+			(uuid "fd9aac7f-56fb-431f-98b0-3446a6ce33de")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "U4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R")
+		(at 142.24 54.61 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "ff0d9c4d-ab95-4a22-b1e3-2599c7217d9a")
+		(property "Reference" "R8"
+			(at 144.78 53.3399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "10K"
+			(at 144.78 55.8799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Resistor_SMD:R_0603_1608Metric_Pad0.98x0.95mm_HandSolder"
+			(at 140.462 54.61 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 142.24 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor"
+			(at 142.24 54.61 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b22015ce-7df2-4308-8438-fe85eaac0620")
+		)
+		(pin "2"
+			(uuid "1639d54f-6fc4-4bc3-85a6-3495e5ec3fbd")
+		)
+		(instances
+			(project "Sensor_Array"
+				(path "/bae96a50-4dba-45b4-bca7-e4ba45589868"
+					(reference "R8")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(sheet_instances
+		(path "/"
+			(page "1")
+		)
+	)
+	(embedded_fonts no)
+)
